@@ -1,5 +1,5 @@
 # gif_player-but-in-C
-this is the gif_player that @dhw12 made but its written in C
+this is the gif_player that @dhw-sorz made but its written in C
 
 to install do two steps 
 1. make
